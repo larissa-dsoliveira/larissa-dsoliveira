@@ -27,25 +27,23 @@ Sou estudante de **Ciência da Computação na UFMT**, apaixonada por tecnologia
       alt="Email" 
       title="Enviar e-mail" 
       src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logo=mail&logoColor=white"
+      ### 🚀 Tecnologias e Ferramentas
+
+  #### 🖥️ **Front-end**
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+  
+  #### ⚙️ **Back-end**
+  <img src="https://skillicons.dev/icons?i=nodejs,python" />
+  
+  #### 🗄️ **Banco de Dados**
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  
+  #### 📌 **Metodologias e Ferramentas**
+  <img src="https://skillicons.dev/icons?i=figma,git,vscode" />
+
     />
   </a>
 </p>
-
----
-
-### 🚀 Tecnologias e Ferramentas
-
-#### 🖥️ **Front-end**
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
-
-#### ⚙️ **Back-end**
-<img src="https://skillicons.dev/icons?i=nodejs,python" />
-
-#### 🗄️ **Banco de Dados**
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-
-#### 📌 **Metodologias e Ferramentas**
-<img src="https://skillicons.dev/icons?i=figma,git,vscode" />
 
 ---
 
