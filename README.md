@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Larissa dos Santos Oliveira
+# 👩🏻‍💻 Larissa Oliveira
 
 ### `Desenvolvedora Web | Front-end & Back-end em evolução`
 
