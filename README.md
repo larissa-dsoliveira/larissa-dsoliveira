@@ -6,11 +6,8 @@ Sou estudante de **Ciência da Computação na UFMT**, apaixonada por tecnologia
 
 📍 **Cuiabá – MT**  
 🎓 **4º semestre de Ciência da Computação (UFMT)**  
-💼 **Foco atual:** JavaScript • React • Node.js • PostgreSQL  
-📚 Estudando constantemente engenharia de software, APIs REST e arquitetura.
-
+📚 **Foco atual:** JavaScript • React • Node.js • PostgreSQL • APIs REST  
 ---
-
 ### 🔗 Conecte-se comigo!
 
 <p align="left">
@@ -27,21 +24,10 @@ Sou estudante de **Ciência da Computação na UFMT**, apaixonada por tecnologia
       alt="Email" 
       title="Enviar e-mail" 
       src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logo=mail&logoColor=white"
-      ### 🚀 Tecnologias e Ferramentas
-
-  #### 🖥️ **Front-end**
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
-  
-  #### ⚙️ **Back-end**
-  <img src="https://skillicons.dev/icons?i=nodejs,python" />
-  
-  #### 🗄️ **Banco de Dados**
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-  
-  #### 📌 **Metodologias e Ferramentas**
-  <img src="https://skillicons.dev/icons?i=figma,git,vscode" />
-
-    />
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+      <img src="https://skillicons.dev/icons?i=nodejs,python" />
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+      <img src="https://skillicons.dev/icons?i=figma,git,vscode" />
   </a>
 </p>
 
