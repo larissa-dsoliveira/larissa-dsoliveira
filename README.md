@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Web | Front-end & Back-end em evolução`**
 
-Sou estudante de **Ciência da Computação na UFMT**, apaixonada por tecnologia e pelo desenvolvimento de **aplicações web completas**, do backend ao frontend. Atualmente, participo de um **Projeto de Extensão em Desenvolvimento de Software**, trabalhando com **React, Node.js, Bases de Dados SQL e modelos de IA (LLM)**. Busco uma oportunidade de **estágio em desenvolvimento**, para aplicar meus conhecimentos e evoluir profissionalmente contribuindo com soluções eficientes e inovadoras.
+Sou estudante de **Ciência da Computação na UFMT**, apaixonada por tecnologia e pelo desenvolvimento de **aplicações web completas**, do backend ao frontend. Busco uma oportunidade de **estágio em desenvolvimento**, para aplicar meus conhecimentos e evoluir profissionalmente contribuindo com soluções eficientes e inovadoras.
 
 📍 **Cuiabá – MT**  
 🎓 **4º semestre de Ciência da Computação (UFMT)**  
@@ -44,33 +44,8 @@ Sou estudante de **Ciência da Computação na UFMT**, apaixonada por tecnologia
 #### 🗄️ **Banco de Dados**
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 
-- **PostgreSQL** (views, procedures, consultas avançadas e normalização)
-- SQL Server • MySQL • Neon
-
-#### 🧠 **Engenharia e Arquitetura de Software**
-- APIs REST • Git/GitHub  
-- UML (casos de uso, classes, sequência e atividades)  
-- Noções de **Microsserviços, SOA e camadas de software**
-
 #### 📌 **Metodologias e Ferramentas**
 <img src="https://skillicons.dev/icons?i=figma,git,vscode" />
-- Scrum • Kanban • StarUML • Lucidchart • draw.io
-
----
-
-### 🧩 Experiência Prática
-
-**💻 Desenvolvedora — Projeto de Extensão UFMT (2025 – atual)**  
-✔ Participação no ciclo completo de desenvolvimento: requisitos → backend → frontend → banco de dados.  
-✔ Modelagem de dados e APIs com **Node.js + PostgreSQL/MySQL/MongoDB**.  
-✔ Desenvolvimento de interfaces dinâmicas com **ReactJS**.  
-✔ Utilização de **modelos LLM (ChatGPT API, Gemini, LLaMA)** e análises com Python/TensorFlow.
-
----
-
-### 📚 Cursos e Capacitação
-
-- 💻 **Formação Full Stack – Rocketseat** (com atuação em software house)
 
 ---
 
