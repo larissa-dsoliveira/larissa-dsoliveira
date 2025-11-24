@@ -94,16 +94,4 @@ Sou estudante de **Ciência da Computação na UFMT**, apaixonada por tecnologia
 
 <br><br><br>
 
----
 
-### 📌 Idiomas
-
-- 🇬🇧 **Inglês Básico**, em estudo voltado para vocabulário técnico e conversação.  
-
----
-
-Se quiser, também posso criar:  
-🎨 **Versão com animações**,  
-💼 **Versão para LinkedIn**,  
-🌐 **Portfólio em React/Next com esse design**.  
-Quer alguma dessas? 😄
