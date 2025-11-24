@@ -21,7 +21,7 @@ Olá! Sou estudante de **Ciência da Computação na UFMT**, apaixonada por tecn
       height="32"
     />
   </a>
-  &nbsp;&nbsp;
+&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/larissa-oliveira-11b620263/" target="_blank">
     <img 
       alt="LinkedIn" 
