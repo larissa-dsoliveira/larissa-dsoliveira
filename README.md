@@ -13,21 +13,21 @@ Olá! Sou estudante de **Ciência da Computação na UFMT**, apaixonada por tecn
 ### 🔗 Conecte-se comigo!
 
 <p align="left">
-  <a href="https://github.com/larissa-dsoliveira" target="_blank">
-    <img 
-      alt="GitHub" 
-      title="GitHub" 
-      src="https://skillicons.dev/icons?i=github"
-      height="35"
-    />
-  </a>
-  &nbsp;&nbsp;
   <a href="mailto:laahsantos.2323@gmail.com" target="_blank">
     <img 
       alt="Email" 
       title="Enviar e-mail" 
       src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logo=mail&logoColor=white"
       height="32"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/larissa-oliveira-11b620263/" target="_blank">
+    <img 
+      alt="LinkedIn" 
+      title="LinkedIn" 
+      src="https://skillicons.dev/icons?i=linkedin"
+      height="35"
     />
   </a>
 </p>
