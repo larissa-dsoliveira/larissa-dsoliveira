@@ -34,8 +34,7 @@ Olá! Sou estudante de **Ciência da Computação na UFMT**, apaixonada por tecn
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="35"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="35"/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" height="35"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker" height="35"/>
   <img src="https://skillicons.dev/icons?i=figma,git,vscode" height="35"/>
 </p>
 
