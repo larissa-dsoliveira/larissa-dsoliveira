@@ -5,7 +5,7 @@
 Olá! Sou estudante de **Ciência da Computação na UFMT**, apaixonada por tecnologia e pelo desenvolvimento de **aplicações web completas**. Busco uma oportunidade de **estágio em desenvolvimento**, para aplicar meus conhecimentos e evoluir profissionalmente contribuindo com soluções eficientes e inovadoras.
 
 📍 **Cuiabá – MT**  
-🎓 **4º semestre de Ciência da Computação (UFMT)**  
+🎓 **5º semestre de Ciência da Computação (UFMT)**  
 📚 **Foco atual:** JavaScript • React • Node.js • PostgreSQL • APIs REST  
 
 ---
